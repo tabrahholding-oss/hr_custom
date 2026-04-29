@@ -1,6 +1,6 @@
 app_name = "hr_custom"
 app_title = "HR Custom"
-app_publisher = "Hussain Farooq"
+app_publisher = "Hussain"
 app_description = "HR Custom"
 app_email = "hussain@tabrah-holding.com"
 app_license = "mit"
@@ -241,9 +241,4 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
-# Translation
-# ------------
-# List of apps whose translatable strings should be excluded from this app's translations.
-# ignore_translatable_strings_from = []
 
